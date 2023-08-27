@@ -10,7 +10,7 @@ I'm Antonis, a passionate developer and aspiring Project Manager, focusing on fr
 
 1. [CarOpsJavaProject](https://github.com/TonyGnk/CarOpsJavaProject) - An information system enhancing auto workshop efficiency and revenue - **Highest** rank in the university competition for outstanding work. - ⭐
 2. [i-bin](https://github.com/TonyGnk/i-bin) - A waste management solution using Arduino technology - **Champion** of the 2nd Panhellenic Open Technologies Competition ⭐
-3. [i-bin](https://github.com/TonyGnk/i-bin) - A waste management solution using Arduino technology - **Winner** of the 2nd Panhellenic Open Technologies Competition ⭐
+3. [i-bin](https://github.com/TonyGnk/i-bin) - A waste management system using Arduino technology - **Winner** of the 2nd Panhellenic Open Technologies Competition ⭐
 
 ## Let's Connect and Create! 🚀
 
