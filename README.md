@@ -2,7 +2,7 @@
 
 I'm Antonis, a passionate developer and aspiring Project Manager, focusing on frontend development and UX design.
 
-🚧Currently, I'm diving deep into Flutter development, honing my skills to craft efficient and user-friendly apps <br>
+🚧 Currently, I'm diving deep into Flutter development, honing my skills to craft efficient and user-friendly apps <br>
 🌱 I’m learning Flutter to build amazing cross-platform applications. <br>
 🎓 I'm pursuing my studies at the University of Macedonia, specializing in Applied Informatics.<br>
 
