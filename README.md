@@ -18,7 +18,12 @@ I'm Antonis, a passionate developer and aspiring Project Manager, focusing on fr
 1. [Audio Player](https://github.com/TonyGnk/Basic-Music-Player-with-Flutter) - An initial Flutter project featuring a basic audio player [▶️](https://tonygnk.github.io/propositional_analyzer/)
 2. [Node Odyssey](https://tonygnk.github.io/Node-Odyssey/) - An interactive problem-solving app that visualizes solutions using powerful algorithms
 3. [Propositional Analyzer](https://github.com/TonyGnk/propositional_analyzer) - A useful tool for analyzing propositional logic expressions
-<a href="placeholder.com" target="_blank">Opens in new tab</a>
+## Demo Markdown
+
+[button text‌](https://eddymens.com)
+
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
+
 
 ## Let's Connect and Create! 🚀
 
