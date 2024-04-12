@@ -19,6 +19,10 @@ I'm Antonis, a passionate developer and aspiring Project Manager, focusing on fr
 2. [Node Odyssey](https://github.com/TonyGnk/Node-Odyssey) - An interactive problem-solving app that visualizes solutions using powerful algorithms [▶️](https://tonygnk.github.io/Node-Odyssey/)
 3. ⭐ [Propositional Analyzer](https://github.com/TonyGnk/propositional_analyzer) - A useful tool for analyzing propositional logic expressions - **Highly commended** for its educational value and user-friendly design [▶️](https://tonygnk.github.io/propositional_analyzer/)
 
+### Android Projects
+
+1. [Contacts](https://github.com/TonyGnk/compose-contacts/tree/master) - A sleek android app crafted using Jetpack Compose, Kotlin and **Room** Database solution
+
 ## Let's Connect and Create! 🚀
 
 Got something on your mind? I'm always open to connect with fellow developers, tech enthusiasts, and anyone interested in technology and innovation. Let's embark on a journey of learning, creating, and innovating.
