@@ -1,4 +1,4 @@
-## Hello There 👋 
+## Hello There 👋
 
 I'm Antonis, a passionate developer and aspiring Project Manager, focusing on frontend development and UX design.
 
