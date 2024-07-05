@@ -4,7 +4,7 @@ I'm Antonis, a passionate developer and aspiring Project Manager, focusing on fr
 
 🚧 Currently, I am working on an mobile app, developing an AI scheduling algorithm for a medical health clinic<br>
 🌱 In the learning zone, I'm delving into Jetpack Compose for building modern and efficient android apps<br>
-🎓 I'm pursuing my studies at the University of Macedonia, specializing in Applied Informatics<br> 
+🎓 I'm pursuing my studies at the University of Macedonia, specializing in Applied Informatics<br>
 
 ## My Repositories 🗄️
 
