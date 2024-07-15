@@ -22,6 +22,7 @@ I'm Antonis, a passionate developer and aspiring Project Manager, focusing on fr
 ### Android Projects
 
 1. [Contacts](https://github.com/TonyGnk/compose-contacts/tree/master) - A sleek android app crafted using Jetpack Compose, Kotlin and **Room** Database solution
+2. [GreenifyMe](https://github.com/TonyGnk/greenify-me) & [GreenifyMe Reloaded](https://github.com/TonyGnk/greenify-me-reloaded)  - A Compose-based Kotlin app that promotes recycling by offering rewards for sustainable actions
 
 ## Let's Connect and Create! 🚀
 
