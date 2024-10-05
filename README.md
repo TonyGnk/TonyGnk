@@ -2,8 +2,8 @@
 
 I'm Antonis, a passionate developer and aspiring Project Manager, focusing on frontend development and UX design.
 
-🚧 Currently, I am working on an mobile app, developing an AI scheduling algorithm for a medical health clinic<br>
-🌱 In the learning zone, I'm delving into Jetpack Compose for building modern and efficient android apps<br>
+🚧 Currently, I am working on a mobile app for urban public transport in Thessaloniki, enhancing user experience with innovative features<br>
+🌱 In the learning zone, I'm exploring advanced Kotlin concepts, Android development, and Compose Multiplatform for cross-platform app creation<br>
 🎓 I'm pursuing my studies at the University of Macedonia, specializing in Applied Informatics<br>
 
 ## My Repositories 🗄️
@@ -23,6 +23,10 @@ I'm Antonis, a passionate developer and aspiring Project Manager, focusing on fr
 
 1. [Contacts](https://github.com/TonyGnk/compose-contacts/tree/master) - A sleek android app crafted using Jetpack Compose, Kotlin and **Room** Database solution
 2. ⭐ [GreenifyMe](https://github.com/TonyGnk/greenify-me) & [GreenifyMe Reloaded](https://github.com/TonyGnk/greenify-me-reloaded)  - A Compose-based Kotlin app that promotes recycling by offering rewards for sustainable actions
+
+### Other Tools
+
+1. [OSM Data Parser to Sqlite](https://github.com/TonyGnk/osm_data_parser_to_sqlite) - A Kotlin DSL for parsing and storing OSM data efficiently in SQL databases
 
 ## Let's Connect and Create! 🚀
 
