@@ -23,7 +23,8 @@ I'm Antonis, a passionate developer and aspiring Project Manager, focusing on fr
 
 1. [Contacts](https://github.com/TonyGnk/compose-contacts/tree/master) - A sleek android app crafted using Jetpack Compose, Kotlin and **Room** Database solution
 2. ⭐ [GreenifyMe](https://github.com/TonyGnk/greenify-me) & [GreenifyMe Reloaded](https://github.com/TonyGnk/greenify-me-reloaded)  - A Compose-based Kotlin app that promotes recycling by offering rewards for sustainable actions
-3. [MapLibre Demo](https://github.com/TonyGnk/map-libre-demo) - An elegant offline mapping solution for Android apps
+3. [Entry Scanner](https://github.com/TonyGnk/entry-scanner) - A modern event management app with QR code scanning, Firebase integration, and real-time team tracking using Jetpack Compose
+4. [MapLibre Demo](https://github.com/TonyGnk/map-libre-demo) - An elegant offline mapping example using MapLibre for Android apps
 
 ### Other Tools
 
